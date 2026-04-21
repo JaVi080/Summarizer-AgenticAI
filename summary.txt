@@ -1,10 +1,16 @@
-- Artwork is a creative work made by people.  
-- It expresses ideas, feelings, or tells stories.  
-- Types include drawings, paintings, sculptures, photographs, and digital creations.  
-- Created to share beauty, emotions, or messages.  
-- Serves as a means of communication and expression.Animes:
-- Anime is a style of animated shows and movies from Japan.  
-- It features colorful artwork, exciting stories, and unique characters.  
-- Anime covers many genres such as adventures, fantasy, friendships, and everyday life.  
-- It is enjoyed by people of all ages and can be funny, dramatic, or scary.  
-- Anime is similar to cartoons but has its own distinct style and storytelling.
+
+Artificial Intelligence:
+
+- Artificial intelligence (AI) enables computational systems to perform tasks typically associated with human intelligence.  
+- These tasks include learning, reasoning, problem-solving, perception, and decision-making.  
+- AI is a multidisciplinary field involving engineering, mathematics, and computer science.  
+- It focuses on developing methods and software that allow machines to perceive their environment.  
+- AI systems use learning and intelligence to take actions that maximize their chances of achieving specific goals.
+
+Programming:
+
+- **Program/Programme:** Refers to a planned series of events, shows, or activities.
+- **Programmer:** A person who writes computer software.
+- **Programming:** The process of writing and testing code that a computer executes.
+- **Multiple Meanings:** The terms can relate to technology, television, events, or other organized sequences.
+- **Context Dependent:** The exact meaning varies based on usage in different fields like computing, broadcasting, or event management.
