@@ -14,3 +14,19 @@ Programming:
 - **Programming:** The process of writing and testing code that a computer executes.
 - **Multiple Meanings:** The terms can relate to technology, television, events, or other organized sequences.
 - **Context Dependent:** The exact meaning varies based on usage in different fields like computing, broadcasting, or event management.
+
+Artwork:
+
+- A work of art refers to an artistic creation with aesthetic value.
+- "Work of art" can refer broadly to any artistic work, including literature and music, while other terms mainly denote tangible visual art forms.
+- It includes fine art examples like paintings and sculptures.
+- Decorative and applied arts objects, designed for both aesthetic appeal and functional use (e.g., jewelry, ceramics, folk art), are also considered artworks.
+- Art can also encompass functional, religious, or conceptual objects that have gained artistic appreciation, as well as photographs, films, installation art, and conceptual art.
+
+Animes:
+
+- Anime is a type of cartoon originating from Japan.  
+- It features colorful drawings and characters with big eyes and expressive faces.  
+- Anime covers a wide range of themes such as adventures, friendships, magic, and everyday life.  
+- It appeals to people of all ages due to its fun, exciting, and emotional stories.  
+- Anime is a unique form of animated show or movie reflecting Japanese culture.
