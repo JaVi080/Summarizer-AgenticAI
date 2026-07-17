@@ -1,10 +1,10 @@
-# 🤖 AI-Powered Topic Summarizer
+#  AI-Powered Topic Summarizer
 
 An AI-powered Python application that generates concise summaries for any topic using the **OpenAI API** and **Wikipedia API**. The project supports two different modes for generating content and demonstrates how multiple APIs can work together in a simple AI pipeline.
 
 ---
 
-## 📖 Overview
+##  Overview
 
 This project allows users to enter any topic and choose between two modes:
 
@@ -15,18 +15,18 @@ The final summary is automatically saved to a text file for future reference.
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🤖 AI-generated topic explanations using the OpenAI API
-- 🔍 Wikipedia-based information retrieval
-- 📝 Automatic AI summarization
-- 💾 Save summaries to a text file
-- 📦 JSON response parsing and processing
-- ⚡ Simple command-line interface
+-  AI-generated topic explanations using the OpenAI API
+-  Wikipedia-based information retrieval
+-  Automatic AI summarization
+-  Save summaries to a text file
+-  JSON response parsing and processing
+-  Simple command-line interface
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python
 - OpenAI API
@@ -36,7 +36,7 @@ The final summary is automatically saved to a text file for future reference.
 
 ---
 
-## 🚀 Project Workflow
+## Project Workflow
 
 ```text
            User Inputs a Topic
@@ -80,7 +80,7 @@ OPENAI_API_KEY=your_api_key_here
 
 ---
 
-## ▶️ Usage
+### Usage
 
 Run the project:
 
@@ -117,7 +117,7 @@ The application will generate a summary and save it to `summary.txt`.
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - GUI 
 - PDF export support
@@ -126,10 +126,13 @@ The application will generate a summary and save it to `summary.txt`.
 
 ---
 
-## 📸 Demo
+##  Demo
 ```
-/Summarizer_rec.mp4
+Summarizer_rec.mp4
 ```
+---
 ###Author 
+
 Javairia Lateef
+
 ---
