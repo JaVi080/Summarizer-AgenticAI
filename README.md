@@ -123,13 +123,7 @@ The application will generate a summary and save it to `summary.txt`.
 - PDF export support
 - Voice input and text-to-speech
 - Chat history management
-
----
-
-##  Demo
-```
-Summarizer_rec.mp4
-```
+  
 ---
 ###Author 
 
