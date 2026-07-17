@@ -128,7 +128,8 @@ The application will generate a summary and save it to `summary.txt`.
 
 ## 📸 Demo
 ```
-/images/demo.png
+/Summarizer_rec.mp4
 ```
-
+###Author 
+Javairia Lateef
 ---
