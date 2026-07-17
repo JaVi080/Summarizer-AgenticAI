@@ -125,7 +125,8 @@ The application will generate a summary and save it to `summary.txt`.
 - Chat history management
   
 ---
-###Author 
+
+### Author 
 
 Javairia Lateef
 
